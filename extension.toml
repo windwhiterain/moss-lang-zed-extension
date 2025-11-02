@@ -8,4 +8,4 @@ repository = "https://github.com/windwhiterain/moss-lang-zed-extension"
 
 [grammars.moss]
 repository = "https://github.com/windwhiterain/tree-sitter-moss"
-rev = "035ee2677e50acca92b948dc8709f444f560d53c"
+rev = "c4e8cdd0f424a4073923982d85094a021f0a9fc8"
