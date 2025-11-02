@@ -1,0 +1,11 @@
+id = "moss"
+name = "moss"
+version = "0.0.1"
+schema_version = 1
+authors = ["whiting <1712428442@qq.com>"]
+description = ""
+repository = "https://github.com/windwhiterain/moss-lang-zed-extension"
+
+[grammars.moss]
+repository = "https://github.com/windwhiterain/tree-sitter-moss"
+rev = "035ee2677e50acca92b948dc8709f444f560d53c"

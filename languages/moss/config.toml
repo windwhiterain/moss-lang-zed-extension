@@ -1,0 +1,4 @@
+name = "moss"
+grammar = "moss"
+path_suffixes = ["moss"]
+line_comments = ["# "]
