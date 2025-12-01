@@ -7,6 +7,4 @@ edition = "2024"
 crate-type = ["cdylib"]
 
 [dependencies]
-tree-sitter = "0.25.10"
-tree-sitter-moss = { version = "0.1.0", path = "../tree-sitter-moss" }
 zed_extension_api = "0.7.0"

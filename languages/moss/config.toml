@@ -1,4 +1,4 @@
-name = "moss"
+name = "Moss"
 grammar = "moss"
 path_suffixes = ["moss"]
 line_comments = ["# "]
