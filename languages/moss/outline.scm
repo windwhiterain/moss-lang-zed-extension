@@ -1,1 +1,1 @@
-(pair key: (name) @name) @item
+(assign key: (name) @name) @item
