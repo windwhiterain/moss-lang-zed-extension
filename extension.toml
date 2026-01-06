@@ -8,7 +8,7 @@ repository = "https://github.com/windwhiterain/moss-lang-zed-extension"
 
 [grammars.moss]
 repository = "https://github.com/windwhiterain/tree-sitter-moss"
-rev = "7bf6b7c1d9ebaee6df080fcac0013925e98c1b24"
+rev = "e784c8771299767483e83b61d64d1ba512d1155e"
 
 [language_servers.moss-language-server]
 name = "Moss Language Server"
