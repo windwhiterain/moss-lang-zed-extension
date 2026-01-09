@@ -15,9 +15,7 @@ impl zed::Extension for MossExtension {
         _worktree: &zed_extension_api::Worktree,
     ) -> zed_extension_api::Result<zed_extension_api::Command> {
         Ok(zed::Command {
-            command:
-                "C:/resource/moss-lang/target/debug/moss-language-server.exe"
-                    .into(),
+            command: "../../../../Moss/moss-language-server.exe".into(),
             args: Default::default(),
             env: Default::default(),
         })
